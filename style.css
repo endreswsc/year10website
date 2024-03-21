@@ -1,1 +1,11 @@
+body {
+background-color: cyan;
+}
 
+h1 {
+    font-size: larger;
+}
+
+p {
+    font: optional;
+}
