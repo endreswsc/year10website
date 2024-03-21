@@ -3,9 +3,9 @@ background-color: cyan;
 }
 
 h1 {
-    font-size: 20px;
+    font-size: 40px;
 }
 
 p {
-    font: optional;
+    font-size: large;
 }
